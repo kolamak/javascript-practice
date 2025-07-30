@@ -1,3 +1,6 @@
+// THIS IS MY FIRST TIME LEARNING JAVASCRIPT
+
+
 // 1. string variables
 // This code defines and logs string variables to the console.
 let name = 'Kolawole';
